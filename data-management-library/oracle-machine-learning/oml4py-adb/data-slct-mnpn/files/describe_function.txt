@@ -1,1 +1,0 @@
-This screenshot an example of the transparency layer function describe() to calculate descriptive statistics that summarize the central tendency, dispersion, and shape of the IRIS table in each numeric column.

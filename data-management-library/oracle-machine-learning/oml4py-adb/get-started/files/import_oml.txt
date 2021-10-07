@@ -1,1 +1,0 @@
-The screenshot shows the Python command to import oml module.

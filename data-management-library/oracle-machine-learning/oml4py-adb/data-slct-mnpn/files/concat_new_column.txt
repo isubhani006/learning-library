@@ -1,1 +1,0 @@
-This screenshot shows an example of how to create an oml.Float object, and then concatenate it with the oml.DataFrame object.

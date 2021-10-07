@@ -1,1 +1,0 @@
-Screenshot of the Configuration Option page in the Oracle Database 19c Installer.

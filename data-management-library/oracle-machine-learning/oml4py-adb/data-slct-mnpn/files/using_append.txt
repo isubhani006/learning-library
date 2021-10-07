@@ -1,1 +1,0 @@
-This screenshot shows the use of the append() function to append an oml.Float series object to another, and then append an oml.DataFrame object to another.

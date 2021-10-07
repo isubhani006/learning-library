@@ -1,1 +1,0 @@
-This screenshot shows an example of how to compute hash on the column 'target'.

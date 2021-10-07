@@ -1,1 +1,0 @@
-This screenshot shows the output of the SQL script to score data and display prediction details. 

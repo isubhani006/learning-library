@@ -1,1 +1,0 @@
-The screenshot shows how to use oml.do_eval function to call the RandomRedDots function. The screenshot also shows the output which are two scatter plots. 

@@ -1,1 +1,0 @@
-This screenshot shows the example of a script to drop rows with any missing numeric values.

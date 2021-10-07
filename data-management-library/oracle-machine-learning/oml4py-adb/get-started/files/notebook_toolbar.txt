@@ -1,1 +1,0 @@
-This is the image of an Oracle Machine Learning notebook, highlighting the various toolbar options. The toolbar has buttons to run code in paragraphs, for configuration settings, and display options.

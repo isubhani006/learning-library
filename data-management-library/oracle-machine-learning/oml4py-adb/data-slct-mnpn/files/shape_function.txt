@@ -1,1 +1,0 @@
-This screenshot shows the script to view the shape of a table. Here, the shape or number of rows and columns, of the IRIS table is displayed.

@@ -1,1 +1,0 @@
-This screenshot shows the script to view datastore content. The script returns the description of three proxy objects - iris, oml_boston, and oml_diabetes. It lists the class, size, length, row and column count for each object.   

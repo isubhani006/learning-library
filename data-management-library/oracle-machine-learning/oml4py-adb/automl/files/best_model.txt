@@ -1,1 +1,0 @@
-This screenshot shows the script to define a ModelSelection object and call `select` for automatically building the best model on the wine data. The output returns the algorithm name, mining functions, target, and settings of the best model.  

@@ -1,1 +1,0 @@
-This screenshot shows the code to create the MLX Global Feature Importance explainer gfi. The code uses the f1_weighted metric.

@@ -1,1 +1,0 @@
-This screenshot shows the script to load the named function MyLM_function into the Python engine for use as a typical Python function using oml.script.load.

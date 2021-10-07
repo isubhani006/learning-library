@@ -1,1 +1,0 @@
-This is the Users page that shows the list of users created - OMLUSER and OMLUSER2 

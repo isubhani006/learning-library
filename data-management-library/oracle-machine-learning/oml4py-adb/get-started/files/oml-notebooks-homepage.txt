@@ -1,1 +1,0 @@
-This is the Oracle Machine Learning Notebooks home page. 

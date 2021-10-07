@@ -1,1 +1,0 @@
-Screenshot of the Run Apply section when creating a stack in Resource Manager.

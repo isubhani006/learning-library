@@ -1,2 +1,0 @@
-Database Connection page is displayed. Here, Download Client Credential (Wallet) option is provided.
-Intance Wallet is being selected for Wallet Type. And Download Wallet is clicked.

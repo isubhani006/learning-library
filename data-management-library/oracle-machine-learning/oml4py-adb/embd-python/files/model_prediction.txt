@@ -1,1 +1,0 @@
-This screenshot shows the script to predict the petal length using the predict function.

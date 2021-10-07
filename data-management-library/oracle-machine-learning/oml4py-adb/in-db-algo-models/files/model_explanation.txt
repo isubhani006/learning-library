@@ -1,1 +1,0 @@
-The screenshot shows the script and the output of the explainer gfi.explain. The script runs the explainer gfi.explain and generates the global feature importance for the test data. Its computes the Global Feature Importance (GFI) for petal length, petal width, sepal length, and sepal width. 

@@ -1,1 +1,0 @@
-This screenshot shows the script that uses index_apply function which allows the same function to be called a specified number of times. In this example, it calls the compute_random_mean function 12 times. 

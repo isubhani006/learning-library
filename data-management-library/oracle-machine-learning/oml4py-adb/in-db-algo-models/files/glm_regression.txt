@@ -1,1 +1,0 @@
-This screenshot shows an example of a script to build a GLM regression model for predicting YRS_RESIDENCE using the oml.glm function.

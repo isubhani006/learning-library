@@ -1,1 +1,0 @@
-This screenshot shows the script to save the objects regr1 and regr2 to the datastore called ds_pymodels. 

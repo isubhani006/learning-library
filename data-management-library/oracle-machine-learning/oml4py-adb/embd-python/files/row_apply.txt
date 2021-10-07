@@ -1,1 +1,0 @@
-This screenshot shows the script that uses the row_apply function. Theh function calls the user-defined function, and returns a single DataFrame proxy object as the result. 

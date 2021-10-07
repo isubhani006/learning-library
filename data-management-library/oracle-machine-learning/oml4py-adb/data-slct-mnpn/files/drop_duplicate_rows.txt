@@ -1,1 +1,0 @@
-This is an example of how to use the drop_duplicate() function to drop duplicate rows.  

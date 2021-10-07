@@ -1,1 +1,0 @@
-This is the screenshot of the Notebooks page in Oracle Machine Learning Notebooks. It has the message "1 out of 1 notebook successfully imported" displayed. 

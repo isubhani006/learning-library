@@ -1,1 +1,0 @@
-This screenshot shows the K-Means clustering in a scatter plot for 3 clusters. It uses different colors to indicate the different clusters - blue for CLUSTER3, red for CLUSTER4, and green for CLUSTER5. Years of residence is plotted against x axis, and the year is plotted against Y axis. 

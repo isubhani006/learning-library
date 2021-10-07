@@ -1,1 +1,0 @@
-This screenshot an example of the transparency layer function head() to view the first three rows of the IRIS table.

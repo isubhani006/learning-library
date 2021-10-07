@@ -1,1 +1,0 @@
-This screenshot shows the OML4Py Embedded Python Execution function oml.table_apply that is used to call the function loaded_str that was saved to the script repository after assigning it to a string object. 

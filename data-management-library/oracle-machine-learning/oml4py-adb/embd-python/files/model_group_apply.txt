@@ -1,1 +1,0 @@
-This screenshot shows the script that uses the oml.group_apply function to call the user-defined function build_lm_g three times (one for each species - Versicolor, Setosa, and Virginica). The script also uses the two Python engines (parallel=2).

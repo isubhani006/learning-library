@@ -1,1 +1,0 @@
-This screenshot shows the example of a script that uses the oml.create function to create a persistent table IRIS.

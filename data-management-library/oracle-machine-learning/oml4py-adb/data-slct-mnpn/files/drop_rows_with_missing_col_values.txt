@@ -1,1 +1,0 @@
-This screenshot shows the script to drop rows where all columns values are missing.

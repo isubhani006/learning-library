@@ -1,1 +1,0 @@
-This screenshot shows an example of how to import the matplotlib library and wine data set and then render the dataset in a boxplot.

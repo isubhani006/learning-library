@@ -1,1 +1,0 @@
-This screenshot shows the script to extract the function text string from the function object and use this to save in the script repository.

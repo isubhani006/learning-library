@@ -1,1 +1,0 @@
-This screenshot shows an example of how to use the crosstab function to find the ratio of entries with different hand values for each gender.

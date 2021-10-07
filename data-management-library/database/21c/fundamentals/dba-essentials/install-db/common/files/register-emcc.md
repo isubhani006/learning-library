@@ -1,2 +1,0 @@
-> If you have EMCC details, such as OMS hostname, port number, and the admin credentials, you can specify in this window and register your Oracle Database.  
-	>> However, instead of registering from this window, it is much easier to use the discovery process from EMCC and add your Oracle Database 21c as a managed target.

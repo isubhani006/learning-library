@@ -1,1 +1,0 @@
-This screenshot shows the script to load the named Python object regr2 (regression model), from the datastore to the user's workspace.

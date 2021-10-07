@@ -1,1 +1,0 @@
-This screenshot shows the script to revoke the read privilege from every user.

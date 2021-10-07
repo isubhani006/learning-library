@@ -1,1 +1,0 @@
-This screenshot shows the script to create a cursor object for the database connection, and display the data types of the columns in the IRIS table. 

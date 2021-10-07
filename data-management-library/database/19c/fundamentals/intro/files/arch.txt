@@ -1,1 +1,0 @@
-Diagram of a CDB and PDBs with a CDB administrator and two PDB Administartors. 

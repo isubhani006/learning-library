@@ -1,1 +1,0 @@
-This is the Oracle Autonomous Data Warehouse Administration page in the Service Console. It shows CPU utilization, number of allocated OCPUs, and SQL statement response time and the count of running SQL statements.

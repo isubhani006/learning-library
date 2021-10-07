@@ -1,1 +1,0 @@
-This screenshot shows the script to list the datastores to which other users have been granted the read privilege.

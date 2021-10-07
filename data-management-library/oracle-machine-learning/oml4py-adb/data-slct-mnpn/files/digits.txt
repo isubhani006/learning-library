@@ -1,1 +1,0 @@
-This is an example of how to use the oml.sync function to create a DataFrame proxy object in Python that represents the DIGITS table.

@@ -1,1 +1,0 @@
-This screenshot shows an example of how to use the pivot_table function to find the maximum and minimum speed for every gender and hand combination and across all combinations.

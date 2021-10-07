@@ -1,1 +1,0 @@
-This screenshot shows the command to display and view the K-means model details. It also shows the output which includes model name, model owner, algorithm name, mining function and other model settings. 

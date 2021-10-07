@@ -1,1 +1,0 @@
-This screenshot shows an example of how to split the data randomly into four consecutive folds using the KFold function.

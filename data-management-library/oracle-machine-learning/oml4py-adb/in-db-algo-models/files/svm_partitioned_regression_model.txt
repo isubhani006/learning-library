@@ -1,1 +1,0 @@
-This screenshot shows the partitioned model built using the SVM algorithm. It predicts the YRS_RESIDENCE, partitioned by CUST_GENDER.

@@ -1,1 +1,0 @@
-This screenshot shows an example of a script to display the first few rows of the table CUST_DF.

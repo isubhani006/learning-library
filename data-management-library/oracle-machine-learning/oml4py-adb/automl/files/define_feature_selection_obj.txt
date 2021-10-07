@@ -1,1 +1,0 @@
-This screenshot shows the script (along with the output) to define the Feature Selection object fs_wine_cl and call the reduce function with the selected algorithms and WINE proxy objects.

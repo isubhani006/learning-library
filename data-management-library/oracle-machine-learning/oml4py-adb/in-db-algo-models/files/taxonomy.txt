@@ -1,1 +1,0 @@
-This screenshot shows the command z.show that is used to display the taxonomy. The taxonomy shows the hierarchy of the child clusters in relationship to the parent clusters.

@@ -1,1 +1,0 @@
-This screenshot shows the accuracy score computed by an SVM model. 

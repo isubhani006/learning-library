@@ -1,1 +1,0 @@
-This screenshot shows the script to list all the transparency layer functions, along with the output.

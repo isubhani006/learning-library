@@ -1,1 +1,0 @@
-This screenshot shows the script to return specific columns by index range.

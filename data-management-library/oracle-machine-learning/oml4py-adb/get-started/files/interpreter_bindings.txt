@@ -1,1 +1,0 @@
-This screenshot shows the interpreter bindings of an Oracle Machine Learning notebook.  

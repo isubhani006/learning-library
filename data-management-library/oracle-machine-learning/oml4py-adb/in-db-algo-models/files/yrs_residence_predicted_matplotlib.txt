@@ -1,1 +1,0 @@
-This screenshot shows the script to plot the predicted and actual years of residence, along with the perfect fit line, y=x. 

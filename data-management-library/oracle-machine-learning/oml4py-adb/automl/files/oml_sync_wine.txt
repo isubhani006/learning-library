@@ -1,1 +1,0 @@
-This screenshot shows the output of the oml.sync function. The function creates an Oracle Machine Learning Dataframe as a proxy for the database table WINE.

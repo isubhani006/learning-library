@@ -1,1 +1,0 @@
-This screenshot shows an example of how to use the crosstab function to find the categories that the most entries belonged to. In this example, the categories are gender, right-handed, and left-handed person. 

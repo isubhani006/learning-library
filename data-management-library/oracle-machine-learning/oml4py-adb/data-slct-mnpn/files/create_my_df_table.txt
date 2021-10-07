@@ -1,1 +1,0 @@
-This screenshot shows the script to create a temporary table MY_DF from a Pandas Dataframe and to print the data type for each column. 

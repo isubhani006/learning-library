@@ -1,1 +1,0 @@
-This screenshot shows the script to select rows based on the condition where petal length is less than 1.5. 

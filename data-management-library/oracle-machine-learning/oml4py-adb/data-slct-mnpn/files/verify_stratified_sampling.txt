@@ -1,1 +1,0 @@
-This screenshot shows an example to verify that the stratified sampling generates splits in which all of the different categories of digits (digits 0-9) are present in each split.

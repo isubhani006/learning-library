@@ -1,1 +1,0 @@
-The screenshot shows the script that makes prediction based on the test data. The result is displayed in a table. The predicted values are listed in the PREDICTION column in the table.

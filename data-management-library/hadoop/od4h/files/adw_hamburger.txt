@@ -1,1 +1,0 @@
-The screenshot shows Oracle Cloud Account homepage. Autonomous Data Warehouse is being selected from the hamburger menu.

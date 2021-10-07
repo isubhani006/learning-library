@@ -1,1 +1,0 @@
-This screenshot shows an example of a script to split the data set into samples of 20% and 80% size. 

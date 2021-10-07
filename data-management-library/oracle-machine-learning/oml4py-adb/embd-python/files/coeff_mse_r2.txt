@@ -1,1 +1,0 @@
-This screenshot shows the script to assess model quality using mean squared error and R^2.

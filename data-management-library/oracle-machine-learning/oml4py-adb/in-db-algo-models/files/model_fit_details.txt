@@ -1,1 +1,0 @@
-This screenshot shows an example of a script to view model fit details. This helps in understanding the key statistics of the model.

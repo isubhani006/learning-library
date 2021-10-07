@@ -1,1 +1,0 @@
-This screenshot shows how to use the concat function to create two oml DataFrame objects and combine the objects by column.

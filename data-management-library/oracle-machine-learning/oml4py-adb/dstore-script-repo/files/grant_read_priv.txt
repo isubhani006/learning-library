@@ -1,1 +1,0 @@
-This screenshot shows the script to grant read privilege to all users by specifying user=None. It also lists the datastores to which the read privilege has been granted.

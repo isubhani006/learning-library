@@ -1,1 +1,0 @@
-This screenshot shows the script to view the string build_lm_str. 

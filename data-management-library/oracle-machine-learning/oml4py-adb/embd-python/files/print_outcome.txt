@@ -1,1 +1,0 @@
-This screenshot shows the script that uses the group_apply function to call the user-defined function and list the resulting models. The models are a dictionary of three elements each assigned the model object name. 

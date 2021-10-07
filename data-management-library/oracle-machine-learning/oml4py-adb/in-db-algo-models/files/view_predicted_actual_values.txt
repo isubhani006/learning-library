@@ -1,1 +1,0 @@
-This screenshot shows the script to plot a scatter plot to display the predicted years of residence. The screenshot also displays the scatter plot.  

@@ -1,1 +1,0 @@
-This screenshot shows an example of a script to calculate the RMSE manually on the prediction results on the testing test and the R-  squared on the testing set using the score method.

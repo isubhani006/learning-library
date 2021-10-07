@@ -1,1 +1,0 @@
-Screenshot of the Options section when creating a stack for the workshop-staged compute instance.

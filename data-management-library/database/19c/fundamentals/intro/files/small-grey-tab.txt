@@ -1,1 +1,0 @@
-Screenshot of the grey arrow button that opens the side toolbar on a noVNC desktop.

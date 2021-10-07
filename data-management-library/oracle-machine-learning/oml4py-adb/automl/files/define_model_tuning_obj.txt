@@ -1,1 +1,0 @@
-This screenshot shows the script to define the model tuning object my_wine_cl for classification and tune the model.

@@ -1,1 +1,0 @@
-This is the screenshot of the last paragraph with the current timestamp in a notebook.

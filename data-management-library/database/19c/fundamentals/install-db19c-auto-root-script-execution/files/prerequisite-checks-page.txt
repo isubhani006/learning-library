@@ -1,1 +1,0 @@
-Screenshot of the Prerequisite Checks in the Oracle Database 19c Installer.

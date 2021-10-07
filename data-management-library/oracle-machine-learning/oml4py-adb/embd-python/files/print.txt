@@ -1,1 +1,0 @@
-This screenshot shows the print command to print the model, model type and coefficient. 

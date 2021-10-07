@@ -1,1 +1,0 @@
-This screenshot shows an example of a script to display and view the model coefficients.

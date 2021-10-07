@@ -1,1 +1,0 @@
-This screenshot shows an example  of how to create a temporary table MY_DF4 using a demo data set. 

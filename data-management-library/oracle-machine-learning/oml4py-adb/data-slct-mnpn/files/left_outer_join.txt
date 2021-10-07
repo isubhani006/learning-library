@@ -1,1 +1,0 @@
-This screenshot shows an example of how to perform a left outer join on the first four rows.

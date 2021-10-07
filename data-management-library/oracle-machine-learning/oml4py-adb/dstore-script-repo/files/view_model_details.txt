@@ -1,1 +1,0 @@
-This screenshot shows the script along with the output to view the details of the model regr2. The output returns the algorithm name, mining function, target column, and other model settings. 

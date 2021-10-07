@@ -1,1 +1,0 @@
-This screenshot shows concatenation of multiple Oracle Machine Learning data objects and how to customized renaming.

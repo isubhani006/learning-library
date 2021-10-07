@@ -1,1 +1,0 @@
-This screenshot shows the command that returns the model global statistics for each partitioned sub-model.

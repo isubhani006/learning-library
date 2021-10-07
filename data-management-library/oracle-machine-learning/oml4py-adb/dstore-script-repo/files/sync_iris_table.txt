@@ -1,1 +1,0 @@
-This screenshot shows the command along with the output to to synchronize the IRIS table in the OMLUSER schema to an OML DataFrame proxy object.

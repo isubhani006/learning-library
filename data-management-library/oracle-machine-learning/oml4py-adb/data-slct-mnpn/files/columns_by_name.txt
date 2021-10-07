@@ -1,1 +1,0 @@
-This screenshot shows the script to select specific columns by name and return the first three records. The screenshot also shows the output of of the script - the length of the petal and sepal from the IRIS_TMP table.

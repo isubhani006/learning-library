@@ -1,1 +1,0 @@
-This screenshot shows the command to verify the database connection established by the Python interpreter. It also shows True, which is returend by the command indicating a successful connection establishment.

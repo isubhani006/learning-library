@@ -1,1 +1,0 @@
-This screenshot shows the user defined script oml.script.dir to list all the available scripts.

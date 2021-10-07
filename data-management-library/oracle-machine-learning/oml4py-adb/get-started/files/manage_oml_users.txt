@@ -1,1 +1,0 @@
-This is the screenshot of the Oracle Machine Learning User Administration page. It highlights the Manage Oracle ML Users option.

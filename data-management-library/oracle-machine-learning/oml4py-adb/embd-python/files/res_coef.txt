@@ -1,1 +1,0 @@
-This screenshot shows the Embedded Python Execution function table_apply to run the user-defined function MyGlobalML_function.

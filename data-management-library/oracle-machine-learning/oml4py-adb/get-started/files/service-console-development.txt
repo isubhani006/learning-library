@@ -1,1 +1,0 @@
-This screenshot shows the Development tab in Oracle Autonomous Data Warehouse Service Console UI. 

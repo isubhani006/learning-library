@@ -1,1 +1,0 @@
-This screenshot shows the script to view the persistent database table that you created.

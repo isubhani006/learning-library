@@ -1,1 +1,0 @@
-This screenshot shows the script to perform a cross join on the oml.DataFrame objects x and y, which creates the oml.DataFrame object xy.

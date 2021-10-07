@@ -1,1 +1,0 @@
-This screenshot shows the commands to import the oml module and the Python library Pandas. 

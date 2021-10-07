@@ -1,1 +1,0 @@
-This screenshot shows the top ranked classification algorithm for predicting the WINE data target.

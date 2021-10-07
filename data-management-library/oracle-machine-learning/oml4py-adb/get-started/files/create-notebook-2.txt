@@ -1,1 +1,0 @@
-This is the screenshot of the Create Notebook dialog. It shows the Name, Comments and Connections fields.

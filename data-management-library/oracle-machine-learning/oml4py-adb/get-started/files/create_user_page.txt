@@ -1,1 +1,0 @@
-This is the Create Users page in Oracle Machine Learning User Administration. 

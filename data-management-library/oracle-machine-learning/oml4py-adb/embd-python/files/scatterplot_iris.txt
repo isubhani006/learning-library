@@ -1,1 +1,0 @@
-This screenshot shows the script to generate a scatterplot of the data along with a plot of the regression line

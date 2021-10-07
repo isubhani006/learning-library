@@ -1,1 +1,0 @@
-This screenshot shows the oml.script.dir script to list the scripts to which the read privilege has been granted. 

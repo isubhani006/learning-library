@@ -1,1 +1,0 @@
-This screenshot shows the script to save the IRIS table to a new datastore, and then list the datastores.

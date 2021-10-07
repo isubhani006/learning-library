@@ -1,1 +1,0 @@
-This is the Autonomous Database details page under Oracle Database. It highlights the Service Console tab. 

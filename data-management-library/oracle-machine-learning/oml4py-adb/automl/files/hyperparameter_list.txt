@@ -1,1 +1,0 @@
-This screenshot shows the script to list the hyperparameters and their values that is tired on the top two models. It also shows the output that displays the corresponding model's score metric value.

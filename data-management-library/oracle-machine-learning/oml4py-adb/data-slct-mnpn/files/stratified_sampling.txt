@@ -1,1 +1,0 @@
-This screenshot shows an example of a script to perform stratified sampling on the column 'target'. 

@@ -1,1 +1,0 @@
-This screenshot shows the script along with the output to create a temporary table called Boston.

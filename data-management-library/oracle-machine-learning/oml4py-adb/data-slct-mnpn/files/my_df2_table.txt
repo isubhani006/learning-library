@@ -1,1 +1,0 @@
-This screenshot shows an example of a script to create the table MY_DF2 from Pandas dataframe.

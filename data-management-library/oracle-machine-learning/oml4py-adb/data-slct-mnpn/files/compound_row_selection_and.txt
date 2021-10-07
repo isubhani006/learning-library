@@ -1,1 +1,0 @@
-This screenshot shows the script for compound row selection using the AND condition.
