@@ -1,66 +1,0 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2580
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 <AcmePurchaseOrder xmlns="http://www.example.org/PurchaseOrder">\
-    <orderNumber>MyOrder-1</orderNumber>\
-    <orderDate>2021-06-14T10:49:34.870</orderDate>\
-    <quoteID>quot111A</quoteID>\
-    <totalAmount>277.00</totalAmount>\
-    <currencyCode>US</currencyCode>\
-    <currencyConversionRate>1.00</currencyConversionRate>\
-    <lineItems>\
-        <SKU>Bearing</SKU>\
-        <Quantity>30</Quantity>\
-        <unitOfMeasure>A8</unitOfMeasure>\
-        <comments>Include casing or cover</comments>\
-        <price>3.00</price>\
-        <amount>90.00</amount>\
-    </lineItems>\
-    <lineItems>\
-        <SKU>LCD-015B</SKU>\
-        <Quantity>1</Quantity>\
-        <unitOfMeasure>AE</unitOfMeasure>\
-        <comments>LCD display module for dashboard</comments>\
-        <price>129.00</price>\
-        <amount>129.00</amount>\
-    </lineItems>\
-    <lineItems>\
-        <SKU>23A011</SKU>\
-        <Quantity>5</Quantity>\
-        <unitOfMeasure>A8</unitOfMeasure>\
-        <comments>PVC coupling pipe</comments>\
-        <price>11.60</price>\
-        <amount>58.00</amount>\
-    </lineItems>\
-    <billingAddress>\
-        <Name>Acme.com</Name>\
-        <AddressLine1>Attn: Purchasing Dept</AddressLine1>\
-        <AddressLine2>100 Spare Part Street</AddressLine2>\
-        <AddressLine3>Suite 44</AddressLine3>\
-        <City>Belmont</City>\
-        <State>CA</State>\
-        <Country>USA</Country>\
-        <ZipCode>94304</ZipCode>\
-    </billingAddress>\
-    <shippingAddress>\
-        <Name>Acme.com Warehouse</Name>\
-        <AddressLine1>100 Lucky Street</AddressLine1>\
-        <AddressLine2>Suite 394B</AddressLine2>\
-        <AddressLine3>Cross street: Colorado Blvd</AddressLine3>\
-        <City>str1234</City>\
-        <State>CO</State>\
-        <Country>USA</Country>\
-        <ZipCode>82836</ZipCode>\
-    </shippingAddress>\
-    <contact>\
-        <name>John Smith</name>\
-        <phone>555-555-5555</phone>\
-        <email>jsmith@acme.com</email>\
-    </contact>\
-    <tradingPartnerId>Dell Inc.</tradingPartnerId>\
-</AcmePurchaseOrder>\
-}

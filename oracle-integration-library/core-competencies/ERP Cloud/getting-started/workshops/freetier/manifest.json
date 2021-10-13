@@ -26,27 +26,11 @@
         },
         {
             "title": "3: Getting Started with B2B in Oracle Integration",
-            "filename": "../../getting-started-b2b/gettingStartedB2B.md"
+            "filename": "../../getting-started/gettingStarted.md"
         },
         {
-            "title": "4: Working with B2B Documents and Schemas",
-            "filename": "../../b2b-documents-schemas/b2b-documents-schemas.md"
-        },
-        {
-            "title": "5: Working with B2B Trading Partner Manager",
-            "filename": "../../b2b-trading-partner-manager/b2b-trading-partner-manager.md"
-        },
-        {
-            "title": "6: Using B2B Action",
-            "filename": "../../b2b-action/b2b-action.md"
-        },
-        {
-            "title": "7: Designing B2B Inbound Scenario",
-            "filename": "../../b2b-inbound-x12-ftp/b2b-inbound-x12-ftp.md"
-        },
-        {
-            "title": "8: Designing B2B Outbound Scenario",
-            "filename": "../../b2b-outbound-x12-ftp/b2b-outbound-x12-ftp.md"
+            "title": "4: PO Event",
+            "filename": "../../PO Event/poevent.md"
         },
         {
             "title": "Need Help?",
