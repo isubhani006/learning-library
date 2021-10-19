@@ -1,38 +1,32 @@
-# Oracle Integration - ERP Cloud PO Event
+# Oracle Integration - Create and Configure connections
 
 ## Introduction
 
-
-
-
-High level steps of the Integration:
-| Step | Description |
-| --- | --- |
-| 1 | Your backend application has a requirement to send a business transaction to an external trading partner. It triggers your outbound backend integration by sending it as a notification message.|
-
+You would be creating connections required for completing PO Event exercise.
 
 
 Estimated Lab Time: 60 minutes
 
 ### About Product/Technology
-Oracle Integration
+Oracle integration
 
 ### Objectives
 
-In this lab, you will create a basic integration flow:
-This labs takes the input as XML from a Rest Client . In a real world use case you would have the XML originating from a Source System like ERP Cloud or NetSuite. A Backend App Integration transforms XML into EDI X12 format using EDI Translate functionality and sends the EDI document to B2B Integration to send across to External Trading Partner (Dell Inc)
+You would be using two connections as part of the PO Event exercise. First connection is to connect to ERP Cloud and Second one is to connect to File Server
 
 
 *This is the "fold" - below items are collapsed by default*
 
-## **STEP 1**: Create Connection
+## **STEP 1**: Create ERP Connection
+1. In the navigation pane, click Integrations, Click Connections
+2. On the Connections page, click Create, Search for ERP Cloud, select Oracle ERP Cloud and click on select
+3. Enter the name of the connection as "ERP Cloud" and keep the default values for other fields and click on Create
+4. Enter ERP Cloud Host(ERP Cloud which you would be using for this exercise) under Connection Properties.
+5. Keep the default values "Username Password Token" under Security section and enter username which you have configured in the ERP Cloud instance i.e., bala.gupta  and password and click on Save and Click on Test.
+6. If it is success, you can proceed with the next step, otherwise, fix the errors and test your connection again.
 
-## **STEP 2**: Create an Integration
 
-Let's create a basic, outbound integration flow that receives an XML document through a REST request, converts it to EDI X12 format, and invokes corresponding trading partner.
-Note:
-This integration flow uses REST for simplicity. You can substitute the REST Adapter trigger connection with any other adapter, such as the FTP Adapter, NetSuite Adapter, ERP Cloud Adapter, available in Oracle Integration
-
+## **STEP 1**: Create File Server Connection
 
 1. In the navigation pane, click Integrations.
 
@@ -62,7 +56,7 @@ The Adapter Endpoint Configuration Wizard opens
     ```
     - Select POST as the action to perform on the endpoint.
     - Select to configure both request and response for this endpoint and click on Next
-
+    ![REST Endpont Wizard diagram](images/b2b-outbound2.png =50%x*)
 
 2. On the Request page:
     - Select XML Schema in the Select the request payload format field.

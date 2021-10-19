@@ -25,11 +25,15 @@
             "filename": "../../setup/setup.md"
         },
         {
-            "title": "3: Getting Started with B2B in Oracle Integration",
-            "filename": "../../getting-started/gettingStarted.md"
+            "title": "3: Getting Started with ERP Cloud Integration",
+            "filename": "../../getting-started-erp/gettingStartedERP.md"
         },
         {
-            "title": "4: PO Event",
+            "title": "4: Connections",
+            "filename": "../../Connections/connections.md"
+        },
+        {
+            "title": "5: PO Event",
             "filename": "../../PO Event/poevent.md"
         },
         {
